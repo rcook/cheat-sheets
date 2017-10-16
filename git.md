@@ -203,3 +203,17 @@ git submodule update --init
 ```
 git submodule update
 ```
+
+## Rewriting author/comitter e-mail addresses
+
+```bash
+#!/bin/bash
+git filter-branch --commit-filter \
+'if [ "$GIT_AUTHOR_NAME" = "Richard Cook" ]; then \
+export GIT_AUTHOR_NAME="Richard Cook";\
+export GIT_AUTHOR_EMAIL=rcook@rcook.org;\
+export GIT_COMMITTER_NAME="Richard Cook";\
+export GIT_COMMITTER_EMAIL=rcook@rcook.org;\
+fi;\
+git commit-tree "$@"'
+```
