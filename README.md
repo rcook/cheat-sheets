@@ -1,11 +1,13 @@
 # Richard's cheat sheets
 
-* [Git cheat sheet][git]
 * [CLion cheat sheet][clion]
-* [Python cheat sheet][python]
 * [Docker cheat sheet][docker]
+* [Git cheat sheet][git]
+* [Python cheat sheet][python]
+* [tmux cheat sheet][tmux]
 
 [clion]: clion.md
+[docker]: docker.md
 [git]: git.md
 [python]: python.md
-[docker]: docker.md
+[tmux]: tmux.md
