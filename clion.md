@@ -8,9 +8,9 @@
 
 ## Running and debugging
 
-| Action              | Shortcut       |
-|---------------------|----------------|
-| Run                 | _Shift+F10_    |
+| Action              | Shortcut       | Shortcut (macOS) |
+|---------------------|----------------|------------------|
+| Run                 | _Shift+F10_    | _Ctrl+R_         |
 | Debug               | _Shift+F9_     |
 | Stop                | _Ctrl+F2_      |
 | Step over           | _F8_           |
