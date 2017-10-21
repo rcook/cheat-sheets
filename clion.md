@@ -2,9 +2,9 @@
 
 ## Build
 
-| Action | Shortcut  |
-|--------|-----------|
-| Build  | _Ctrl+F9_ |
+| Action | Shortcut  | Shortcut (macOS) |
+|--------|-----------|------------------|
+| Build  | _Ctrl+F9_ | _&#8984;+F9_     |
 
 ## Running and debugging
 
