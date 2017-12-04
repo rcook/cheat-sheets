@@ -14,10 +14,10 @@
 
 ## Building
 
-| Action                 | Shortcut        | Shortcut (macOS) |
-|------------------------|-----------------|------------------|
-| Build project          | _Ctrl+F9_       | _&#8984;F9_      |
-| Recompile current file | _Ctrl+Shift+F9_ |                  |
+| Action                 | Shortcut        | Shortcut (macOS)  |
+|------------------------|-----------------|-------------------|
+| Build project          | _Ctrl+F9_       | _&#8984;F9_       |
+| Recompile current file | _Ctrl+Shift+F9_ | _Shift+&#8984;F9_ |
 
 ## Running
 
