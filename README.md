@@ -7,10 +7,12 @@
 * [Ruby cheat sheet][ruby]
 * [tmux cheat sheet][tmux]
 * [Visual Studio Code][vscode]
+* [macOS][macos]
 
 [docker]: docker.md
 [git]: git.md
 [jetrains]: jetbrains.md
+[macos]: macos.md
 [python]: python.md
 [ruby]: ruby.md
 [tmux]: tmux.md
