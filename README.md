@@ -11,7 +11,7 @@
 
 [docker]: docker.md
 [git]: git.md
-[jetrains]: jetbrains.md
+[jetbrains]: jetbrains.md
 [macos]: macos.md
 [python]: python.md
 [ruby]: ruby.md
