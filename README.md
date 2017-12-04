@@ -1,13 +1,13 @@
 # Richard's cheat sheets
 
-* [Docker cheat sheet][docker]
-* [Git cheat sheet][git]
-* [JetBrains cheat sheet (CLion/IntelliJ etc.)][jetbrains]
-* [Python cheat sheet][python]
-* [Ruby cheat sheet][ruby]
-* [tmux cheat sheet][tmux]
-* [Visual Studio Code][vscode]
+* [Docker][docker]
+* [Git][git]
+* [JetBrains][jetbrains]
 * [macOS][macos]
+* [Python][python]
+* [Ruby][ruby]
+* [tmux][tmux]
+* [VSCode][vscode]
 
 [docker]: docker.md
 [git]: git.md
