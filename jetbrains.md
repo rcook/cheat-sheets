@@ -3,14 +3,15 @@
 
 ## Navigation
 
-| Action      | Shortcut           | Shortcut (macOS) |
-|-------------|--------------------|------------------|
-| Class       | _Ctrl+N_           |                  |
-| File        | _Ctrl+Shift+N_     |                  |
-| Symbol      | _Ctrl+Alt+Shift+N_ |                  |
-| Line        | _Ctrl+G_           |                  |
-| Declaration | _Ctrl+B_           | _&#8984;B_       |
-| Definition  | _Ctrl+Alt+B_       |                  |
+| Action           | Shortcut           | Shortcut (macOS) |
+|------------------|--------------------|------------------|
+| Class            | _Ctrl+N_           |                  |
+| File             | _Ctrl+Shift+N_     |                  |
+| Symbol           | _Ctrl+Alt+Shift+N_ |                  |
+| Line             | _Ctrl+G_           |                  |
+| Declaration      | _Ctrl+B_           | _&#8984;B_       |
+| Definition       | _Ctrl+Alt+B_       |                  |
+| Go to next error | _F2_               |                  |
 
 ## Building
 
